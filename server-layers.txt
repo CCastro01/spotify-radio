@@ -1,0 +1,6 @@
+server 
+    service = everything that is busigner rule or proccesment
+    controller = broker the layer of presentation and the layer of business
+    routes = presentation layer
+    server = responsible to create server(but not instantiate)
+    config = everything that's static on project
